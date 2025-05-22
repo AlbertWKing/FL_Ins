@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build and temporary files
+*.log
+*.tmp
+*.bak
+
+# ignore subdirectory
+data/
+
+# ignore specific files
+2021 Annual Report.pdf
+notes.ipynb
+Sources.docx
